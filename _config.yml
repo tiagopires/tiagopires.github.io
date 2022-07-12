@@ -63,18 +63,21 @@ author:
   avatar : "/assets/images/bio-photo_tiago.jpeg"
   bio    : "Subject Matter Expert @Microsoft"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+    # icon: "fas fa-fw fa-link"
+    #  url: "https://"
+    - label: "Portugal"
+      icon: "fas fa-fw fa-map-marker-alt"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/tiagopires"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/tiagopires"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/tiagoarpires"
+
 
 footer:
   links:
